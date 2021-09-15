@@ -6,6 +6,9 @@ To assist two employees from board of election, we are going to automate the pro
 
 ## Election Result
 
+![Result](https://user-images.githubusercontent.com/88631769/133356218-e45c4f26-1d75-43e8-b383-cf47e726d911.PNG)
+
+
 - Total votes were cast in this congressional election. 
 
 	
