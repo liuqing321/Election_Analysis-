@@ -54,7 +54,7 @@ To assist two employees from board of election, we are going to automate the pro
 ## Election-Audit Summary
   
     
-- By changing the value for "file to load" and "file to save", the script could be used to process any file that has the same data frame as "election-results.csv". No matter how many candidates or counties are the new file, the two "if-statements" will help the board of election add new value in candidate list and county list. 
+- By changing the value for "file to load" and "file to save", the script could be used to process any file that has the same data frame as "election-results.csv". No matter how many candidates or counties are in the new file. The two "if-statements" will help the board of election add new value in the candidate list and the county list. 
  	
 		#Add a variable to load a file from a path.
     	file_to_load = os.path.join("Resources", "election_results2021.csv")
